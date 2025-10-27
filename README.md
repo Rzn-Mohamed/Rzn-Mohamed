@@ -1,6 +1,8 @@
-<h1 align="center">💫About Me :</h1>
+<h1 align="left">💫About Me :</h1>
 
 ###
+
+<br clear="both">
 
 <h4 align="center">Hi there! 👋 I'm a 5th-year Computer Science student at EMSI with a growing passion for Data Engineering—particularly how data can drive smarter decisions and build more efficient systems.<br>After completing internships in backend development using Python, Django, and PostgreSQL , I became especially drawn to the data layer: designing scalable databases , automating workflows, and building data-intensive applications.<br>This experience led me to focus fully on Data Engineering. I'm now actively building skills in: 🐍 Python (Pandas, PySpark ), SQL 🗃️ PostgreSQL, MySQL, SQLite ⚙️ Apache Airflow, dbt, Docker ☁️ Azure (Azure Data Fundamentals certified ), AWS<br>I'm currently working on ETL/ELT projects and looking for a 5-month PFE (end-of-studies) internship starting in February 2026 where I can contribute to a data-driven team</h4>
 
@@ -12,10 +14,10 @@
   <a href="https://www.linkedin.com/in/mohamed-r-96b401340/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="57" alt="linkedin logo"  />
   </a>
-  <a href="m.razin.contact@gmail.com" target="_blank">
+  <a href="mailto:m.razin.contact@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="57" alt="gmail logo"  />
   </a>
-  <a href="+212 678-487968" target="_blank">
+  <a href="https://wa.me/212678487968" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="57" alt="whatsapp logo"  />
   </a>
   <a href="https://medium.com/@meddrazin12" target="_blank">
@@ -67,6 +69,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/r/r/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rzn-Mohamed/Rzn-Mohamed/output/snake.svg" alt="Snake animation" />
 
 ###
