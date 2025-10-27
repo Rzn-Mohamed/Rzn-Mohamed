@@ -8,6 +8,12 @@
 
 ###
 
+<div align="center">
+  <img height="199" src="https://interfaceingame.com/wp-content/uploads/hollow-knight/hollow-knight-banner.jpg"  />
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -69,6 +75,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rzn-Mohamed/Rzn-Mohamed/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rzn-Mohamed/Rzn-Mohamed/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rzn-Mohamed/Rzn-Mohamed/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rzn-Mohamed/Rzn-Mohamed/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
