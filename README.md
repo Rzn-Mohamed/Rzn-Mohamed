@@ -1,57 +1,64 @@
 <div align="center">
 
-# Razin
-**Data Engineering Student · EMSI**
+# Razin Mohamed
+**Data Engineer**
 
 </div>
 
 ```yaml
-role: Data Engineering student, EMSI (year 5)
-focus: ETL/ELT pipelines, scalable databases, workflow automation
+role: Data Engineer
+focus: Big Data Architectures · ETL/ELT Pipelines · Cloud Data Ecosystems
+certifications: Azure Data Fundamentals (DP-900) · Fabric Data Engineer (DP-700)
+languages: English | French
 ```
 
 ## About
 
-5th-year Computer Science student at EMSI with a growing passion for Data Engineering—particularly how data can drive smarter decisions and build more efficient systems.
+Data Engineer focused on building big data architectures, ETL/ELT pipelines, and cloud-native data ecosystems — with a practical, hands-on approach to turning large, messy datasets into reliable, production-grade systems.
 
-After completing internships in backend development using Python, Django, and PostgreSQL, I became especially drawn to the data layer: designing scalable databases, automating workflows, and building data-intensive applications. This experience led me to focus fully on Data Engineering.
+Microsoft Certified: Azure Data Fundamentals (DP-900), and Fabric Data Engineer Associate (DP-700).
 
-Currently building skills in:
+🌐 Bilingual — English & French
 
-- 🐍 Python (Pandas, PySpark), SQL
-- 🗃️ PostgreSQL, MySQL, SQLite
-- ⚙️ Apache Airflow, dbt, Docker
-- ☁️ Azure (Data Fundamentals certified), AWS
+**Core toolkit:**
 
-Currently working on ETL/ELT projects and looking for a 5-month PFE (end-of-studies) internship starting in February 2026 where I can contribute to a data-driven team.
+- 🐍 Languages: Python (PySpark, Pandas), SQL
+- 🗄️ Big Data: Apache Spark, Hadoop/HDFS, Hive, Kafka
+- ⚙️ Orchestration & Ingestion: Airflow, NiFi, Docker
+- ☁️ Cloud & Platforms: Microsoft Azure, Databricks
+- 🐧 OS: Ubuntu/Linux
 
 ## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
+| **Distributed Predictive Savings System** | Engineered a medallion-architecture (Bronze/Silver/Gold) pipeline processing 58 GB of data across 47 source files and 1 billion+ records | PySpark, HDFS, Hive, Airflow, NiFi |
+| **Automated Email Classification** | Built an automated ingestion workflow that categorizes and labels incoming correspondence using LLM-based classification | n8n, Docker, Gmail API, Gemini API |
 | **Geocoding Pipeline** | Resolves 120k+ raw addresses to coordinates through a waterfall strategy across OSM and Google Maps | Python, OSM API, Google Maps API |
 | **Real-Time IoT Ingestion** | Streaming architecture for ingesting and storing sensor data in real time | Kafka, FastAPI, TimescaleDB |
 | **Olist ADF Pipeline** | Azure Data Factory pipeline orchestrating ingestion of the Olist e-commerce dataset | Azure Data Factory, Azure |
-
-*(Placeholder table: swap in your repo links once pushed. GitHub's native "pinned repositories" on your profile page is worth using alongside this — it auto-shows stars and language and stays current on its own.)*
 
 ## Tech Stack
 
 **Languages**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>&nbsp;&nbsp;`SQL`
 
-**Data & Backend**
+**Big Data & Processing**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="Apache Spark"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="Hadoop / HDFS"/>&nbsp;&nbsp;`Hive`
 
-**Pipelines & Cloud**
+**Orchestration & Automation**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Airflow"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS"/>&nbsp;&nbsp;`dbt`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Airflow"/>&nbsp;&nbsp;`Apache NiFi`&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
 
-**Tooling**
+**Cloud & Platforms**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Microsoft Azure"/>&nbsp;&nbsp;`Databricks`&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+
+**Tooling & OS**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Ubuntu/Linux"/>
 
 ## Contact
 
